@@ -1,5 +1,7 @@
 ## Neural-Toolbox-PyTorch
 PyTorch implementation of standalone modules - CBN, Attention, Glimpse, Modulated ResNet (MODERN), FiLM Layer </br>
+</br>
+Tensorflow implementation provided by [GuessWhatGame](https://github.com/GuessWhatGame/neural_toolbox).
 
 ### Setup
 Follow instructions outlined on [PyTorch Homepage](https://pytorch.org/) for installing PyTorch (Python2). </br>
